@@ -1,0 +1,51 @@
+.main-div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    background-color: pink;
+}
+.first-div{
+    background-color: bisque;
+    border-radius: 10px;
+    box-shadow: 4px 8px;
+    width: 300px;
+    overflow: hidden;
+}
+.second-div{
+     background-color: yellow;
+    border-radius: 10px;
+    box-shadow: 4px 8px;
+    width: 300px;
+    overflow: hidden;
+}
+.third-div{
+     background-color: purple;
+    border-radius: 10px;
+    box-shadow: 4px 8px;
+    width: 300px;
+    overflow: hidden;
+}
+.footer1{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 15px;
+    color: blue;
+    background-color:yellow ;
+}
+.footer2{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 15px;
+    color: black;
+    background-color:peru; 
+}
+.footer3{
+     display: flex;
+    justify-content: space-between;
+    padding: 10px 15px;
+    color: black;
+    background-color:yellow ;
+}
+
